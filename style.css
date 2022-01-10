@@ -1,0 +1,162 @@
+.banner{
+   background-image: url(img/Untitled-3.png); 
+   background-repeat: no-repeat;
+   
+  
+  
+}
+.list{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    box-shadow: 0px 0px 30px 20px lightgray;
+    padding: 20px;
+    border-radius: 15px;
+}
+.title h1{
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    color: #05fc05;
+}
+
+.underlist{
+    width: 400px;
+   margin-left: 60px;
+}
+
+.underlist ol{
+    color: back;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.underlist a{
+    text-decoration: none;
+    color: brown;
+}
+
+.scroll{
+    width: 70%;
+    height: 300px;
+    margin: auto;
+    padding: 20px;
+    overflow: hidden;
+    overflow:scroll;
+    overflow-x: hidden;
+    box-shadow: 0px 0px 30px 20px lightgray;
+    border-radius: 20px;
+}
+
+ .inline-block h1{
+    text-align: center;
+    color: #05fc05 ;
+    font-size: 45px;
+    font-family:'Abril Fatface', cursive; ;
+}
+
+.scroll p, h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: justify;
+}
+
+.scroll h3{
+    position: sticky;
+    top: 0;
+    background-color: darkkhaki;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+.scroll img{
+    height: 300px;
+    width: 300px;
+    width: 50%;
+    margin: auto;
+}
+
+.table-title h1{
+    font-size: 40px;
+    font-family:'Abril Fatface', cursive; ;
+    color:#05fc05;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section-2{
+    background-image: url(img/Untitled-4.png);
+    background-repeat: no-repeat;
+ 
+     
+}
+
+.table-side table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    box-shadow: 0px 0px 30px 20px lightgray;
+    margin-bottom: 150px;
+}
+
+.table-side table tr, td, th{
+   
+    border: 1px solid rgb(252, 4, 4);
+    padding: 10px 20px;
+    background-color: honeydew;
+}
+
+.para{
+    width: 50%;
+    margin: auto;
+    box-shadow: 0px 0px 30px 20px lightgray;
+    padding: 20px;
+}
+
+.para h2{
+    font-size: 30px;
+    font-family:'Abril Fatface', cursive;
+    color: #05fc05;
+    text-align: center;
+}
+
+.para p, h3, ol{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+
+
+.youtube iframe{
+    box-shadow: 0px 0px 30px 20px lightgray;
+    padding: 20px;
+    background-color: hsl(120, 73%, 75%);
+    border-radius: 20px;
+   
+}
+
+.youtube h1{
+    font-size: 35px;
+    font-family:'Abril Fatface', cursive ;
+    color:#05fc05;
+    text-align: center;
+}
+
+.youtube{
+    width: 50%;
+    margin: auto;
+   
+}
+
+.section-3{
+    background-image: url(img/Untitled-5.png);
+    background-repeat: no-repeat;
+   
+   
+   
+}
+
+
+
+
+
